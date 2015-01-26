@@ -1,0 +1,18 @@
+I am Pranav Chaturvedi 4th sem CSE student. I am making a project in software engineering, which I call as -NEWSBOOK.
+In this busy world, people have no time to spend hrs in reading a newspapers, cutting out the important ones, tracking a news,
+or finding details on an article.
+What I propose is, these processes can be automated . 
+By using NLP-(NATURAL LANGUAGE PROCESSING) and NLU (NATURAL LANGUAGE UNDERSTANDING, a computer can be taught to read newspaper. 
+Many apps have been formed before, but they are not automated to that extend which this one is. 
+The algorithm somewhat looks like this:-
+1.NEWS from various RSS feeds(blogs,websites of newspapers) will be collected and stored in a database.
+2. Through Machine Learning ,all the news will be divided into various groups-Politics,Sports,international..... and even for 
+similar topics subgroups will be formed.
+3.Then for each subgroup, text summarization will be done. (cleaned data)
+4.Using entity recognition, for each news all important names will be known, and a summary about them will come under 
+it(this year,previous year...).
+If news is about any bill or amendment, it will give a short summary on them.
+If news says about some Report, it will summarize it and will give you a link,below that news.
+5.Using Regression algorithm user's interest in various news can be prioritize.
+6. Tracked news will be available. Hence, updates on a particular news will be made available more easily.
+Whole experience of newspaper reading will change.
